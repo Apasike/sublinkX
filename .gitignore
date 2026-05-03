@@ -6,3 +6,10 @@ sublink_amd64
 sublink_arm64
 sublink.exe
 install.sh
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
